@@ -19,13 +19,6 @@ Version: 1.0
   .blog-header-logo:hover {
     text-decoration: none;
   }
-  
-  .bd-highlight .btn-outline-warning {
-    color: #fff;
-    background-color: #ffc107;
-    border-color: #ffc107;
-    margin: 12px;
-  }
   h1, h2, h3, h4, h5, h6 {
     font-family: "Playfair Display", Georgia, "Times New Roman", serif;
   }
@@ -38,6 +31,20 @@ Version: 1.0
       font-size: 3rem;
     }
   }
+  
+  .bd-highlight .btn-outline-warning {
+    color: #fff;
+    background-color: #949390;
+    border-color: #ffc107;
+    margin: 20px;
+  }
+  .bd-highlight .bi-cart-check-fill{
+    witdh:30px;
+    height: 25px;
+    background-color: #949390;
+  }
+
+  
   
   .nav-scroller {
     position: relative;
